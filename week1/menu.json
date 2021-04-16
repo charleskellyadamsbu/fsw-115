@@ -13,13 +13,13 @@
             }
         }],
         "cold sandwiches": [{
-            "ham sandwhich": {
-                "name": "ham sandwhich",
+            "ham sandwich": {
+                "name": "ham sandwich",
                 "ingredients": ["bread", "ham", "cheese", "lettuce"],
-                "description": "A sandwhich invented by John Montagu."
+                "description": "A sandwich invented by John Montagu."
             },
-            "turkey sandwhich": {
-                "name": "turkey sandwhich",
+            "turkey sandwich": {
+                "name": "turkey sandwich",
                 "ingredients": ["bread", "turkey", "cheese", "mayo"],
                 "description": "An American classic sandwich."
             }
@@ -28,12 +28,12 @@
             "cheeseburger": {
                 "name": "cheeseburger",
                 "ingredients": ["bread", "hamburger", "cheese", "mustard"],
-                "description": "A hearty sandwhich."
+                "description": "A hearty sandwich."
             },
-            "egg sandwhich": {
-                "name": "egg sandwhich",
+            "egg sandwich": {
+                "name": "egg sandwich",
                 "ingredients": ["bread", "eggs", "mayo"],
-                "description": "A light breakfast sandwhich."
+                "description": "A light breakfast sandwich."
             }
         }],
         "desserts": [{
