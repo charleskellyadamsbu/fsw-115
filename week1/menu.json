@@ -1,0 +1,64 @@
+{
+    "menu": [{
+        "appetizers": [{
+            "meatballs": {
+                "name": "meatballs",
+                "ingredients": ["hamburger", "salt", "pepper"],
+                "description": "A ball of hamburger used for pasta dishes."
+            },
+            "mini tacos": {
+                "name": "mini tacos",
+                "ingredients": ["taco shell", "hamburger", "taco seasoning", "cheese"],
+                "description": "A famous delecious mexican dish."
+            }
+        }],
+        "cold sandwiches": [{
+            "ham sandwhich": {
+                "name": "ham sandwhich",
+                "ingredients": ["bread", "ham", "cheese", "lettuce"],
+                "description": "A sandwhich invented by John Montagu."
+            },
+            "turkey sandwhich": {
+                "name": "turkey sandwhich",
+                "ingredients": ["bread", "turkey", "cheese", "mayo"],
+                "description": "An American classic sandwich."
+            }
+        }],
+        "hot sandwiches": [{
+            "cheeseburger": {
+                "name": "cheeseburger",
+                "ingredients": ["bread", "hamburger", "cheese", "mustard"],
+                "description": "A hearty sandwhich."
+            },
+            "egg sandwhich": {
+                "name": "egg sandwhich",
+                "ingredients": ["bread", "eggs", "mayo"],
+                "description": "A light breakfast sandwhich."
+            }
+        }],
+        "desserts": [{
+            "icecream": {
+                "name": "icecream",
+                "ingredients": ["heavy whipping cream", "chocolate", "sprinkles"],
+                "description": "Nothing beats the taste of homemade icecream."
+            },
+            "brownie": {
+                "name": "brownie",
+                "ingredients": ["brownie mix", "oil", "chocolate"],
+                "description": "A sweet treat you can't resisit."
+            }
+        }],
+        "drinks": [{
+            "coke": {
+                "name": "coke",
+                "ingredients": ["water", "secret ingredient", "carbonation"],
+                "description": "A cold drink great with ice."
+            },
+            "tea": {
+                "name": "tea",
+                "ingredients": ["water", "tea", "sugar"],
+                "description": "A sweet drink that's very popular in the south."
+            }
+        }]
+    }]
+}
